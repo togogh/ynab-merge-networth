@@ -6,7 +6,7 @@ If you're using multiple budgets (maybe you're using YNAB with a partner and you
 
 ## How to Use
 1. Get your API token from YNAB at https://api.youneedabudget.com/#personal-access-tokens
-2. Create a new budget, where you're planning to merge the two budgets you're currently using
+2. Create a new destination budget in https://app.youneedabudget.com/
 3. Download this repo
 4. Run merge_budgets.py
 5. Initialize settings by inputting your API token, then select your source budgets and destination budget (info will be stored in your local files, so you don't have to keep inputting these in the future)
